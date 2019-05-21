@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553544059 source:e:\university\operating systems\processscheudling2\main.c
+	<stdlib.h>
+	<stdio.h>
+
